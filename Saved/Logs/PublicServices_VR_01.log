@@ -2587,3 +2587,219 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-12.05.18:678][551]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2022.03.11-12.05.19:085][565]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
 [2022.03.11-12.05.19:085][565]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.06.31:410][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.06.31:416][377]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseF4D90C844D60C591F9E14E83529097A9.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.06.31:426][377]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.06.31:426][377]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.06.40:420][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.44:837][125]LogEditorViewport: Clicking Background
+[2022.03.11-12.06.47:204][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.47:920][309]LogEditorViewport: Clicking Background
+[2022.03.11-12.06.54:694][715]LogActorFactory: Actor Factory created Cube
+[2022.03.11-12.06.55:370][755]LogActorFactory: Actor Factory created Cube
+[2022.03.11-12.06.58:667][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.59:035][935]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.06.59:973][990]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.07.12:957][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.07.15:002][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.07.17:552][947]LogEditorViewport: Clicking Background
+[2022.03.11-12.07.19:615][ 71]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.11-12.07.19:615][ 71]Can't find target actor or component.
+[2022.03.11-12.07.28:866][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.04:654][772]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.17:214][517]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.17:930][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.08.18:885][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.19:717][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.27:298][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.27:952][157]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.28:994][219]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.30:639][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.32:557][432]Cmd: EDIT COPY
+[2022.03.11-12.08.35:607][615]Cmd: EDIT PASTE
+[2022.03.11-12.08.40:707][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.11-12.08.48:857][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.08.49:572][451]LogEditorViewport: Clicking Background
+[2022.03.11-12.08.57:672][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.09.15:043][978]LogEditorViewport: Clicking Background
+[2022.03.11-12.09.15:443][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.09.16:181][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.09.18:366][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.09.18:398][176]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.09.19:196][223]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.09.22:297][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.09.47:433][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.09.49:436][ 31]Cmd: EDIT COPY
+[2022.03.11-12.09.50:003][ 65]Cmd: EDIT PASTE
+[2022.03.11-12.10.20:133][872]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2022.03.11-12.10.20:965][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.10.24:064][106]Cmd: POLY SELECT MEMORY UNION
+[2022.03.11-12.10.24:980][161]Cmd: POLY SELECT MEMORY UNION
+[2022.03.11-12.10.32:432][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.11.45:567][996]Cmd: EDIT COPY
+[2022.03.11-12.11.46:184][ 33]Cmd: EDIT PASTE
+[2022.03.11-12.12.00:946][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.02:403][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.11:504][551]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.12:087][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.17:387][903]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.17:821][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.12.21:074][123]Cmd: EDIT COPY
+[2022.03.11-12.12.21:474][147]Cmd: EDIT PASTE
+[2022.03.11-12.12.34:952][955]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.37:044][ 23]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.38:479][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.12.42:042][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.03.11-12.12.46:891][574]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.03.11-12.12.57:543][213]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.58:828][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.13.00:293][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.13.04:762][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.03.11-12.13.06:411][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.13.23:480][727]Cmd: EDIT COPY
+[2022.03.11-12.13.25:147][827]Cmd: EDIT PASTE
+[2022.03.11-12.13.37:741][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.13.40:225][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.04:012][155]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.13:029][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.30:048][716]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.32:948][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.42:153][441]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.54:636][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.14.57:742][375]Cmd: EDIT PASTE
+[2022.03.11-12.14.59:452][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.00:371][531]Cmd: EDIT PASTE
+[2022.03.11-12.15.01:614][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.03:765][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.03:832][737]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.05:315][825]Cmd: EDIT PASTE
+[2022.03.11-12.15.05:418][830]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.11-12.15.16:891][518]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2022.03.11-12.15.17:189][536]LogEditorViewport: Clicking Background
+[2022.03.11-12.15.18:855][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.15.33:672][467]Cmd: EDIT PASTE
+[2022.03.11-12.15.34:999][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.15.35:067][549]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.35:410][569]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.36:059][608]Cmd: EDIT PASTE
+[2022.03.11-12.15.47:944][320]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2022.03.11-12.15.49:011][384]Cmd: EDIT PASTE
+[2022.03.11-12.15.51:293][520]Cmd: EDIT COPY
+[2022.03.11-12.15.57:527][894]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2022.03.11-12.16.00:311][ 61]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.01:215][115]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: 17FB10FFDFE49C565A780E05150E6635CCC23976), compiling. 
+[2022.03.11-12.16.01:228][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:230][115]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 8017F1013BD1D2A1F5D170903E9F58681C4F4351), compiling. 
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:243][115]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3BA70506AE49F5D02D4B18C24BA8A09711A84951), compiling. 
+[2022.03.11-12.16.01:257][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:258][115]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 4038BD81038B3181BF21BB48C9EAF1871B8045B5), compiling. 
+[2022.03.11-12.16.01:271][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 75
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 68
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 61
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.07:094][306]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 54
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Total job queries 5724, among them cache hits 4 (0.07%)
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Tracking 5621 distinct input hashes that result in 1738 distinct outputs (30.92%)
+[2022.03.11-12.16.07:629][329]LogShaderCompilers: Display: RAM used: 23.02 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.81%
+[2022.03.11-12.16.07:629][329]LogShaderCompilers: Display: ================================================
+[2022.03.11-12.16.09:002][381]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 49
+[2022.03.11-12.16.09:002][381]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.09:338][394]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2022.03.11-12.16.09:338][394]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.10:460][442]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 40
+[2022.03.11-12.16.10:460][442]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.10:677][452]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 36
+[2022.03.11-12.16.10:677][452]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.13:470][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2022.03.11-12.16.13:470][589]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.14:057][616]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2022.03.11-12.16.14:057][616]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.15:296][678]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2022.03.11-12.16.15:297][678]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.18:430][822]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2022.03.11-12.16.18:430][822]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.21:624][969]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.25:078][138]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2022.03.11-12.16.25:078][138]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.29:678][373]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2022.03.11-12.16.29:678][373]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.31:204][454]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2022.03.11-12.16.31:204][454]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.31:734][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.03.11-12.16.31:734][484]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.33:883][598]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.03.11-12.16.33:884][598]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.35:950][712]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2022.03.11-12.16.35:950][712]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.37:028][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.03.11-12.16.37:028][769]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.38:485][847]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2022.03.11-12.16.38:485][847]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.38:833][867]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.03.11-12.16.38:833][867]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.39:227][887]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.03.11-12.16.39:227][887]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.44:553][167]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.45:339][211]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.03.11-12.16.45:339][211]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.45:518][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.11-12.16.45:518][221]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.46:260][260]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.11-12.16.46:260][260]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.46:835][288]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:150][302]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:207][304]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.03.11-12.16.47:207][304]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.47:247][305]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:712][324]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.03.11-12.16.47:713][324]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.48:172][342]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.03.11-12.16.48:172][342]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.17.13:822][832]LogEditorViewport: Clicking Background
+[2022.03.11-12.17.14:355][864]LogEditorViewport: Clicking Background
+[2022.03.11-12.17.14:806][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.17.26:512][592]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.13:144][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.18.19:227][759]Cmd: EDIT COPY
+[2022.03.11-12.18.33:627][623]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.38:565][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.11-12.18.38:580][913]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseE7A399CB459090567BC8648515E9BE98.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.18.38:591][913]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.18.38:591][913]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.18.44:719][281]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.45:453][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.18.51:453][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.18.53:120][783]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.53:187][787]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.53:702][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.18.54:472][863]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.55:471][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.19.00:744][238]LogEditorViewport: Clicking Background
+[2022.03.11-12.19.02:360][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.03.11-12.19.03:298][390]LogEditorViewport: Clicking Background
+[2022.03.11-12.19.03:831][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.19.04:983][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.19.05:784][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.19.06:735][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.19.13:802][ 16]Cmd: EDIT COPY
+[2022.03.11-12.19.14:352][ 49]Cmd: EDIT PASTE
+[2022.03.11-12.19.44:497][856]LogEditorViewport: Clicking Background
+[2022.03.11-12.20.01:937][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.11-12.20.01:949][592]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese22E566F641DC2F3D83347DBEF42E4E22.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.20.01:960][592]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.20.01:960][592]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
