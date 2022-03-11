@@ -3005,3 +3005,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-12.45.58:205][989]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese921AB3CF4508819B5161E7838195AC5F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
 [2022.03.11-12.45.58:215][989]AssetCheck: New page: Asset Save: InsideReeeeese
 [2022.03.11-12.45.58:215][989]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.52.26:166][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.11-12.52.26:174][268]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese7C65BC2640545050EFE693A369E5D333.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.52.26:183][268]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.52.26:183][268]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
