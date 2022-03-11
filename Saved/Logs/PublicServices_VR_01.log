@@ -2957,3 +2957,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-12.27.57:279][218]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese8E53BA5A40D18ACACA1CC081BDFA9084.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
 [2022.03.11-12.27.57:290][218]AssetCheck: New page: Asset Save: InsideReeeeese
 [2022.03.11-12.27.57:290][218]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.28.32:189][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-12.28.32:194][623]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseDE1EF15B430B7B6DAEAB61924074643A.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.28.32:205][623]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.28.32:205][623]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.28.41:510][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.28.46:128][458]Cmd: EDIT PASTE
+[2022.03.11-12.28.47:841][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.28.47:941][565]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.28.48:735][612]Cmd: EDIT PASTE
+[2022.03.11-12.29.10:384][910]Cmd: DELETE
+[2022.03.11-12.29.10:384][910]Cmd: ACTOR DELETE
+[2022.03.11-12.29.10:392][910]LogEditorActor: Deleted 1 Components (0.009 secs)
+[2022.03.11-12.29.14:056][130]LogEditorViewport: Clicking Background
+[2022.03.11-12.29.14:639][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.30.05:909][240]Cmd: EDIT PASTE
+[2022.03.11-12.30.06:170][255]Cmd: EDIT COPY
+[2022.03.11-12.30.21:955][202]LogEditorViewport: Clicking Background
+[2022.03.11-12.30.23:155][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.03.11-12.30.29:122][593]LogEditorViewport: Clicking Background
+[2022.03.11-12.30.42:838][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.11-12.30.43:291][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.03.11-12.30.49:391][807]Cmd: EDIT COPY
+[2022.03.11-12.30.54:292][101]Cmd: EDIT PASTE
+[2022.03.11-12.30.54:701][125]Cmd: EDIT COPY
+[2022.03.11-12.32.49:644][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.11-12.32.49:658][786]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese42CF678A4E13F1CF8F5549BCA498E702.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.32.49:668][786]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.32.49:668][786]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.35.15:545][329]Cmd: POLY SELECT ADJACENT WALLS
+[2022.03.11-12.37.12:613][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.11-12.37.12:627][348]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese2E3910A74204DA9B3162739922A54A6F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.37.12:640][348]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.37.12:640][348]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.37.22:189][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.37.30:938][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.37.33:990][129]Cmd: EDIT COPY
+[2022.03.11-12.37.34:406][154]Cmd: EDIT PASTE
+[2022.03.11-12.37.51:376][171]LogEditorViewport: Clicking Background
+[2022.03.11-12.40.18:410][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.40.20:596][123]LogEditorViewport: Clicking Background
+[2022.03.11-12.43.07:018][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.11-12.43.07:033][102]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese1525285C405F2773ADD7C5A6D8226838.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.43.07:044][102]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.43.07:044][102]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.45.58:199][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.11-12.45.58:205][989]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese921AB3CF4508819B5161E7838195AC5F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.45.58:215][989]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.45.58:215][989]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
