@@ -2587,3 +2587,421 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.11-12.05.18:678][551]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
 [2022.03.11-12.05.19:085][565]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
 [2022.03.11-12.05.19:085][565]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.06.31:410][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.06.31:416][377]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseF4D90C844D60C591F9E14E83529097A9.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.06.31:426][377]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.06.31:426][377]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.06.40:420][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.44:837][125]LogEditorViewport: Clicking Background
+[2022.03.11-12.06.47:204][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.47:920][309]LogEditorViewport: Clicking Background
+[2022.03.11-12.06.54:694][715]LogActorFactory: Actor Factory created Cube
+[2022.03.11-12.06.55:370][755]LogActorFactory: Actor Factory created Cube
+[2022.03.11-12.06.58:667][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.06.59:035][935]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.06.59:973][990]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.07.12:957][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.07.15:002][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.07.17:552][947]LogEditorViewport: Clicking Background
+[2022.03.11-12.07.19:615][ 71]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.11-12.07.19:615][ 71]Can't find target actor or component.
+[2022.03.11-12.07.28:866][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.04:654][772]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.17:214][517]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.17:930][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.08.18:885][615]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.19:717][664]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.27:298][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.27:952][157]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.28:994][219]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2022.03.11-12.08.30:639][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.08.32:557][432]Cmd: EDIT COPY
+[2022.03.11-12.08.35:607][615]Cmd: EDIT PASTE
+[2022.03.11-12.08.40:707][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.11-12.08.48:857][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.08.49:572][451]LogEditorViewport: Clicking Background
+[2022.03.11-12.08.57:672][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.09.15:043][978]LogEditorViewport: Clicking Background
+[2022.03.11-12.09.15:443][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.09.16:181][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.09.18:366][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.09.18:398][176]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.09.19:196][223]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.09.22:297][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.09.47:433][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.09.49:436][ 31]Cmd: EDIT COPY
+[2022.03.11-12.09.50:003][ 65]Cmd: EDIT PASTE
+[2022.03.11-12.10.20:133][872]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube)
+[2022.03.11-12.10.20:965][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.10.24:064][106]Cmd: POLY SELECT MEMORY UNION
+[2022.03.11-12.10.24:980][161]Cmd: POLY SELECT MEMORY UNION
+[2022.03.11-12.10.32:432][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.11.45:567][996]Cmd: EDIT COPY
+[2022.03.11-12.11.46:184][ 33]Cmd: EDIT PASTE
+[2022.03.11-12.12.00:946][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.02:403][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.11:504][551]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.12:087][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.12.17:387][903]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.17:821][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.12.21:074][123]Cmd: EDIT COPY
+[2022.03.11-12.12.21:474][147]Cmd: EDIT PASTE
+[2022.03.11-12.12.34:952][955]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.37:044][ 23]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.38:479][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.12.42:042][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.03.11-12.12.46:891][574]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.03.11-12.12.57:543][213]LogEditorViewport: Clicking Background
+[2022.03.11-12.12.58:828][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2022.03.11-12.13.00:293][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.13.04:762][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2022.03.11-12.13.06:411][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.11-12.13.23:480][727]Cmd: EDIT COPY
+[2022.03.11-12.13.25:147][827]Cmd: EDIT PASTE
+[2022.03.11-12.13.37:741][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.13.40:225][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.04:012][155]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.13:029][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.30:048][716]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.32:948][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.14.42:153][441]LogEditorViewport: Clicking Background
+[2022.03.11-12.14.54:636][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.14.57:742][375]Cmd: EDIT PASTE
+[2022.03.11-12.14.59:452][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.00:371][531]Cmd: EDIT PASTE
+[2022.03.11-12.15.01:614][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.03:765][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.15.03:832][737]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.05:315][825]Cmd: EDIT PASTE
+[2022.03.11-12.15.05:418][830]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.11-12.15.16:891][518]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2022.03.11-12.15.17:189][536]LogEditorViewport: Clicking Background
+[2022.03.11-12.15.18:855][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.15.33:672][467]Cmd: EDIT PASTE
+[2022.03.11-12.15.34:999][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.15.35:067][549]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.35:410][569]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.15.36:059][608]Cmd: EDIT PASTE
+[2022.03.11-12.15.47:944][320]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent1)
+[2022.03.11-12.15.49:011][384]Cmd: EDIT PASTE
+[2022.03.11-12.15.51:293][520]Cmd: EDIT COPY
+[2022.03.11-12.15.57:527][894]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2022.03.11-12.16.00:311][ 61]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.01:215][115]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: 17FB10FFDFE49C565A780E05150E6635CCC23976), compiling. 
+[2022.03.11-12.16.01:228][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:230][115]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 8017F1013BD1D2A1F5D170903E9F58681C4F4351), compiling. 
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:242][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:243][115]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 3BA70506AE49F5D02D4B18C24BA8A09711A84951), compiling. 
+[2022.03.11-12.16.01:257][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:258][115]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 4038BD81038B3181BF21BB48C9EAF1871B8045B5), compiling. 
+[2022.03.11-12.16.01:271][115]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 75
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 68
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 61
+[2022.03.11-12.16.01:782][115]LogShaderCompilers: Display: Started 21 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.07:094][306]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 54
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Total job queries 5724, among them cache hits 4 (0.07%)
+[2022.03.11-12.16.07:628][329]LogShaderCompilers: Display: Tracking 5621 distinct input hashes that result in 1738 distinct outputs (30.92%)
+[2022.03.11-12.16.07:629][329]LogShaderCompilers: Display: RAM used: 23.02 MB (0.02 GB) of 819.20 MB (0.80 GB) budget. Usage: 2.81%
+[2022.03.11-12.16.07:629][329]LogShaderCompilers: Display: ================================================
+[2022.03.11-12.16.09:002][381]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 49
+[2022.03.11-12.16.09:002][381]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.09:338][394]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 44
+[2022.03.11-12.16.09:338][394]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.10:460][442]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 40
+[2022.03.11-12.16.10:460][442]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.10:677][452]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 36
+[2022.03.11-12.16.10:677][452]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.13:470][589]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2022.03.11-12.16.13:470][589]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.14:057][616]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2022.03.11-12.16.14:057][616]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.15:296][678]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 26
+[2022.03.11-12.16.15:297][678]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.18:430][822]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2022.03.11-12.16.18:430][822]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.21:624][969]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.25:078][138]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2022.03.11-12.16.25:078][138]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.29:678][373]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2022.03.11-12.16.29:678][373]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.31:204][454]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2022.03.11-12.16.31:204][454]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.31:734][484]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2022.03.11-12.16.31:734][484]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.33:883][598]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2022.03.11-12.16.33:884][598]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.35:950][712]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2022.03.11-12.16.35:950][712]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.37:028][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.03.11-12.16.37:028][769]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.38:485][847]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2022.03.11-12.16.38:485][847]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.38:833][867]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.03.11-12.16.38:833][867]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.39:227][887]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.03.11-12.16.39:227][887]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.44:553][167]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.45:339][211]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.03.11-12.16.45:339][211]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.45:518][221]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.03.11-12.16.45:518][221]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.46:260][260]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2022.03.11-12.16.46:260][260]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.46:835][288]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:150][302]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:207][304]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2022.03.11-12.16.47:207][304]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.47:247][305]LogEditorViewport: Clicking Background
+[2022.03.11-12.16.47:712][324]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2022.03.11-12.16.47:713][324]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.16.48:172][342]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.03.11-12.16.48:172][342]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.03.11-12.17.13:822][832]LogEditorViewport: Clicking Background
+[2022.03.11-12.17.14:355][864]LogEditorViewport: Clicking Background
+[2022.03.11-12.17.14:806][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.17.26:512][592]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.13:144][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.18.19:227][759]Cmd: EDIT COPY
+[2022.03.11-12.18.33:627][623]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.38:565][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.11-12.18.38:580][913]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseE7A399CB459090567BC8648515E9BE98.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.18.38:591][913]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.18.38:591][913]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.18.44:719][281]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.45:453][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.18.51:453][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.18.53:120][783]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.53:187][787]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.53:702][818]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.18.54:472][863]LogEditorViewport: Clicking Background
+[2022.03.11-12.18.55:471][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.19.00:744][238]LogEditorViewport: Clicking Background
+[2022.03.11-12.19.02:360][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2022.03.11-12.19.03:298][390]LogEditorViewport: Clicking Background
+[2022.03.11-12.19.03:831][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.19.04:983][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.19.05:784][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2022.03.11-12.19.06:735][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2022.03.11-12.19.13:802][ 16]Cmd: EDIT COPY
+[2022.03.11-12.19.14:352][ 49]Cmd: EDIT PASTE
+[2022.03.11-12.19.44:497][856]LogEditorViewport: Clicking Background
+[2022.03.11-12.20.01:937][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.11-12.20.01:949][592]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese22E566F641DC2F3D83347DBEF42E4E22.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.20.01:960][592]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.20.01:960][592]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.20.33:951][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.03.11-12.20.33:956][918]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese824D32454C0737972CB5B9A33F2E5AFE.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.20.33:967][918]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.20.33:967][918]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.20.48:862][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.20.49:898][873]LogEditorViewport: Clicking Background
+[2022.03.11-12.20.50:198][891]LogEditorViewport: Clicking Background
+[2022.03.11-12.20.50:698][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.20.51:531][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.20.52:564][ 32]LogEditorViewport: Clicking Background
+[2022.03.11-12.20.53:565][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.20.53:884][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.20.59:034][419]Cmd: EDIT COPY
+[2022.03.11-12.20.59:367][439]Cmd: EDIT PASTE
+[2022.03.11-12.21.31:599][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.21.39:070][819]LogEditorViewport: Clicking Background
+[2022.03.11-12.21.39:537][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.21.42:005][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.11-12.21.42:788][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.21.43:505][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.21.43:922][108]LogEditorViewport: Clicking Background
+[2022.03.11-12.21.46:255][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.21.46:607][268]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2022.03.11-12.21.50:641][510]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2022.03.11-12.21.59:555][ 41]LogEditorViewport: Clicking Background
+[2022.03.11-12.22.00:371][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.22.01:406][151]Cmd: DELETE
+[2022.03.11-12.22.01:406][151]Cmd: ACTOR DELETE
+[2022.03.11-12.22.01:408][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.11-12.22.01:413][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.11-12.22.01:420][151]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.03.11-12.22.03:591][282]Cmd: TRANSACTION UNDO
+[2022.03.11-12.22.03:591][282]LogEditorTransaction: Undo Delete Actors
+[2022.03.11-12.22.09:085][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.22.09:402][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.22.09:485][632]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent2)
+[2022.03.11-12.22.09:812][651]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent2)
+[2022.03.11-12.22.14:616][937]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2022.03.11-12.22.19:328][218]LogEditorViewport: Clicking Background
+[2022.03.11-12.22.19:894][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2022.03.11-12.22.20:330][277]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube6)
+[2022.03.11-12.22.29:180][803]LogEditorViewport: Clicking Background
+[2022.03.11-12.22.29:597][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.11-12.22.48:231][945]Cmd: EDIT COPY
+[2022.03.11-12.22.48:514][962]Cmd: EDIT PASTE
+[2022.03.11-12.22.56:558][444]LogEditorViewport: Clicking Background
+[2022.03.11-12.22.58:126][500]LogEditorViewport: Clicking Background
+[2022.03.11-12.23.00:525][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.03.11-12.23.03:511][822]LogEditorViewport: Clicking Background
+[2022.03.11-12.23.07:628][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.23.18:762][734]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.08:395][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.24.09:214][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.11-12.24.14:298][ 64]Cmd: EDIT COPY
+[2022.03.11-12.24.14:682][ 87]Cmd: EDIT PASTE
+[2022.03.11-12.24.21:779][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.11-12.24.21:791][506]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese3621EF754A0299B4CCEBB3A509C12825.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.24.21:804][506]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.24.21:804][506]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.24.23:833][628]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.30:869][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.24.31:456][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.24.47:972][ 74]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.48:322][ 95]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.53:338][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2022.03.11-12.24.57:508][645]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.58:008][675]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.58:391][698]LogEditorViewport: Clicking Background
+[2022.03.11-12.24.58:491][704]LogEditorViewport: Clicking Background
+[2022.03.11-12.25.06:184][165]LogEditorViewport: Clicking Background
+[2022.03.11-12.25.23:691][214]Cmd: DELETE
+[2022.03.11-12.25.23:691][214]Cmd: ACTOR DELETE
+[2022.03.11-12.25.23:692][214]LogEditorActor: Deleted Actor: PlayerStart
+[2022.03.11-12.25.23:696][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-12.25.23:702][214]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.03.11-12.25.56:636][181]Cmd: DELETE
+[2022.03.11-12.25.56:636][181]Cmd: ACTOR DELETE
+[2022.03.11-12.25.56:637][181]LogEditorActor: Deleted Actor: SpotLight
+[2022.03.11-12.25.56:641][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-12.25.56:645][181]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.11-12.26.10:909][ 34]LogEditorViewport: Clicking Background
+[2022.03.11-12.26.33:001][358]Cmd: DELETE
+[2022.03.11-12.26.33:001][358]Cmd: ACTOR DELETE
+[2022.03.11-12.26.33:002][358]LogEditorActor: Deleted Actor: Pawn
+[2022.03.11-12.26.33:006][358]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-12.26.33:009][358]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.11-12.26.43:764][  1]LogEditorViewport: Clicking Background
+[2022.03.11-12.27.06:669][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.11-12.27.09:089][375]LogSlate: Window 'Save Content' being destroyed
+[2022.03.11-12.27.09:189][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.27.09:196][375]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese29FAC96F4976036CA0C9729C2AF23D2F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.27.09:201][375]LogFileHelpers: Saving map 'InsideReeeeese' took 0.015
+[2022.03.11-12.27.09:220][375]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CourtYardAlex.CourtYardAlex
+[2022.03.11-12.27.09:220][375]Cmd: MAP LOAD FILE="../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/CourtYardAlex.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-12.27.09:220][375]LightingResults: New page: Lighting Build
+[2022.03.11-12.27.09:220][375]LoadErrors: New page: Loading map: CourtYardAlex.umap
+[2022.03.11-12.27.09:221][375]LogWorld: UWorld::CleanupWorld for InsideReeeeese, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-12.27.09:221][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-12.27.09:221][375]MapCheck: New page: Map Check
+[2022.03.11-12.27.09:221][375]LightingResults: New page: Lighting Build
+[2022.03.11-12.27.09:224][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-12.27.09:226][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.03.11-12.27.09:226][375]LogAudio: Display: Audio Device (ID: 1) registered with world 'CourtYardAlex'.
+[2022.03.11-12.27.09:228][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-12.27.09:228][375]LogAIModule: Creating AISystem for world CourtYardAlex
+[2022.03.11-12.27.09:233][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.03.11-12.27.09:235][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-12.27.09:235][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2022.03.11-12.27.09:235][375]LogFileHelpers: Loading map 'CourtYardAlex' took 0.015
+[2022.03.11-12.27.09:247][375]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.27.09:247][375]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.27.13:558][634]LogEditorViewport: Clicking Background
+[2022.03.11-12.27.35:761][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.11-12.27.35:775][942]LogAssetEditorSubsystem: Opening Asset editor for World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.27.35:775][942]Cmd: MAP LOAD FILE="../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.11-12.27.35:775][942]LightingResults: New page: Lighting Build
+[2022.03.11-12.27.35:775][942]LoadErrors: New page: Loading map: InsideReeeeese.umap
+[2022.03.11-12.27.35:776][942]LogWorld: UWorld::CleanupWorld for CourtYardAlex, bSessionEnded=true, bCleanupResources=true
+[2022.03.11-12.27.35:776][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.11-12.27.35:776][942]MapCheck: New page: Map Check
+[2022.03.11-12.27.35:776][942]LightingResults: New page: Lighting Build
+[2022.03.11-12.27.35:780][942]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.11-12.27.35:781][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.11-12.27.35:781][942]LogAudio: Display: Audio Device (ID: 1) registered with world 'InsideReeeeese'.
+[2022.03.11-12.27.35:783][942]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.11-12.27.35:783][942]LogAIModule: Creating AISystem for world InsideReeeeese
+[2022.03.11-12.27.35:788][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.03.11-12.27.35:791][942]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.11-12.27.35:791][942]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2022.03.11-12.27.35:791][942]LogFileHelpers: Loading map 'InsideReeeeese' took 0.016
+[2022.03.11-12.27.43:061][378]LogEditorViewport: Clicking Background
+[2022.03.11-12.27.43:627][412]LogEditorViewport: Clicking on Actor (LMB): Character (Character3)
+[2022.03.11-12.27.44:913][487]Cmd: DELETE
+[2022.03.11-12.27.44:913][487]Cmd: ACTOR DELETE
+[2022.03.11-12.27.44:914][487]LogEditorActor: Deleted Actor: Character
+[2022.03.11-12.27.44:917][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.11-12.27.44:919][487]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.11-12.27.45:796][540]LogEditorViewport: Clicking Background
+[2022.03.11-12.27.46:779][599]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2022.03.11-12.27.47:601][646]Cmd: DELETE
+[2022.03.11-12.27.47:601][646]Cmd: ACTOR DELETE
+[2022.03.11-12.27.47:602][646]LogEditorActor: Deleted Actor: Character
+[2022.03.11-12.27.47:606][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.27.47:607][646]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.11-12.27.48:768][716]LogEditorViewport: Clicking on Actor (LMB): Character (Character2)
+[2022.03.11-12.27.49:639][766]Cmd: DELETE
+[2022.03.11-12.27.49:639][766]Cmd: ACTOR DELETE
+[2022.03.11-12.27.49:641][766]LogEditorActor: Deleted Actor: Character
+[2022.03.11-12.27.49:644][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.27.49:645][766]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2022.03.11-12.27.57:273][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.11-12.27.57:279][218]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese8E53BA5A40D18ACACA1CC081BDFA9084.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.27.57:290][218]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.27.57:290][218]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.28.32:189][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.11-12.28.32:194][623]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseDE1EF15B430B7B6DAEAB61924074643A.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.28.32:205][623]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.28.32:205][623]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.28.41:510][182]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.28.46:128][458]Cmd: EDIT PASTE
+[2022.03.11-12.28.47:841][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.28.47:941][565]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.03.11-12.28.48:735][612]Cmd: EDIT PASTE
+[2022.03.11-12.29.10:384][910]Cmd: DELETE
+[2022.03.11-12.29.10:384][910]Cmd: ACTOR DELETE
+[2022.03.11-12.29.10:392][910]LogEditorActor: Deleted 1 Components (0.009 secs)
+[2022.03.11-12.29.14:056][130]LogEditorViewport: Clicking Background
+[2022.03.11-12.29.14:639][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.11-12.30.05:909][240]Cmd: EDIT PASTE
+[2022.03.11-12.30.06:170][255]Cmd: EDIT COPY
+[2022.03.11-12.30.21:955][202]LogEditorViewport: Clicking Background
+[2022.03.11-12.30.23:155][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2022.03.11-12.30.29:122][593]LogEditorViewport: Clicking Background
+[2022.03.11-12.30.42:838][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2022.03.11-12.30.43:291][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2022.03.11-12.30.49:391][807]Cmd: EDIT COPY
+[2022.03.11-12.30.54:292][101]Cmd: EDIT PASTE
+[2022.03.11-12.30.54:701][125]Cmd: EDIT COPY
+[2022.03.11-12.32.49:644][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.11-12.32.49:658][786]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese42CF678A4E13F1CF8F5549BCA498E702.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.32.49:668][786]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.32.49:668][786]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.35.15:545][329]Cmd: POLY SELECT ADJACENT WALLS
+[2022.03.11-12.37.12:613][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.11-12.37.12:627][348]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese2E3910A74204DA9B3162739922A54A6F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.37.12:640][348]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.37.12:640][348]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.37.22:189][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.11-12.37.30:938][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.37.33:990][129]Cmd: EDIT COPY
+[2022.03.11-12.37.34:406][154]Cmd: EDIT PASTE
+[2022.03.11-12.37.51:376][171]LogEditorViewport: Clicking Background
+[2022.03.11-12.40.18:410][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2022.03.11-12.40.20:596][123]LogEditorViewport: Clicking Background
+[2022.03.11-12.43.07:018][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.11-12.43.07:033][102]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese1525285C405F2773ADD7C5A6D8226838.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.43.07:044][102]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.43.07:044][102]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.11-12.45.58:199][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.11-12.45.58:205][989]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese921AB3CF4508819B5161E7838195AC5F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.11-12.45.58:215][989]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.11-12.45.58:215][989]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
