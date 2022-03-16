@@ -1126,3 +1126,137 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.16-10.59.24:042][ 91]SourceControl: Commited [main 0579abf] Inside Stuff!.
 [2022.03.16-10.59.24:058][ 92]AssetCheck: New page: Asset Save: InsideReeeeese
 [2022.03.16-10.59.24:058][ 92]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9459FF95-4A80-4AE8-C041-17BD94848173%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=a81a5b9d45b4c4a34d982c935e5d4ac0%7Ce0adecd7ca564952829a2f5070ca3b0b%7C67c71227-cecd-42b6-bb55-0416bfec79ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: request failed, libcurl error: 0 (No error)
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2648c0afeb0 [can pipeline])
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.26.119.80) port 443 (#1))
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.03.16-11.00.42:988][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.03.16-11.00.42:989][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.03.16-11.00.42:989][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 7 (Closing connection 1)
+[2022.03.16-11.00.42:989][485]LogHttp: Warning: 00000264CF14F200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.03.16-11.00.43:321][486]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9459FF95-4A80-4AE8-C041-17BD94848173%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=a81a5b9d45b4c4a34d982c935e5d4ac0%7Ce0adecd7ca564952829a2f5070ca3b0b%7C67c71227-cecd-42b6-bb55-0416bfec79ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.16-11.03.16:043][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.16-11.03.16:054][271]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseAF2A860641E8AFC4A00E0889C6930CB3.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.03.16:069][271]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.03.16:069][271]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.03.23:049][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.16-11.03.23:060][685]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese6EB33A6A47E1CCEB9292C2A14C270B3F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.03.23:072][685]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.03.23:072][685]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.04.56:849][413]Cmd: SELECT NONE
+[2022.03.16-11.06.18:597][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.03.16-11.06.18:608][984]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese0C0BBB9643930E1395F82F854BD620C7.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.06.18:619][984]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.06.18:619][984]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.11.42:345][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2022.03.16-11.11.45:539][427]LogEditorViewport: Clicking Background
+[2022.03.16-11.12.54:306][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2022.03.16-11.12.55:157][603]Cmd: DELETE
+[2022.03.16-11.12.55:157][603]Cmd: ACTOR DELETE
+[2022.03.16-11.12.55:161][603]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-11.12.55:166][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.16-11.12.55:167][603]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2022.03.16-11.12.56:357][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube31)
+[2022.03.16-11.12.58:480][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube30)
+[2022.03.16-11.13.00:665][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2022.03.16-11.13.06:902][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.13.12:222][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2022.03.16-11.13.16:193][859]LogEditorViewport: Clicking Background
+[2022.03.16-11.13.21:527][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube29)
+[2022.03.16-11.13.24:766][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube37)
+[2022.03.16-11.13.25:234][399]LogEditorViewport: Clicking Background
+[2022.03.16-11.14.04:468][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2022.03.16-11.14.09:672][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2022.03.16-11.14.10:878][135]Cmd: DELETE
+[2022.03.16-11.14.10:878][135]Cmd: ACTOR DELETE
+[2022.03.16-11.14.10:879][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-11.14.10:882][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.16-11.14.10:883][135]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2022.03.16-11.14.14:644][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2022.03.16-11.14.15:898][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2022.03.16-11.14.16:345][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2022.03.16-11.14.19:312][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube23)
+[2022.03.16-11.14.24:969][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2022.03.16-11.14.25:453][  5]LogEditorViewport: Clicking Background
+[2022.03.16-11.14.36:854][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.03.16-11.14.38:977][815]LogEditorViewport: Clicking Background
+[2022.03.16-11.14.44:227][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube25)
+[2022.03.16-11.14.46:848][286]Cmd: EDIT COPY
+[2022.03.16-11.14.47:082][300]Cmd: EDIT PASTE
+[2022.03.16-11.15.15:793][ 22]Cmd: TRANSACTION UNDO
+[2022.03.16-11.15.15:799][ 22]LogEditorTransaction: Undo Rotate Actors
+[2022.03.16-11.15.16:017][ 34]Cmd: TRANSACTION UNDO
+[2022.03.16-11.15.16:017][ 34]LogEditorTransaction: Undo Rotate Actors
+[2022.03.16-11.15.47:898][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2022.03.16-11.16.17:521][721]Cmd: SELECT NONE
+[2022.03.16-11.16.25:138][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube35)
+[2022.03.16-11.16.33:375][671]Cmd: EDIT COPY
+[2022.03.16-11.16.34:909][763]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.03.16-11.16.39:359][ 30]Cmd: EDIT COPY
+[2022.03.16-11.16.39:592][ 44]Cmd: EDIT PASTE
+[2022.03.16-11.17.16:590][263]Cmd: EDIT COPY
+[2022.03.16-11.17.16:807][276]Cmd: EDIT PASTE
+[2022.03.16-11.17.22:622][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube38)
+[2022.03.16-11.17.24:192][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube39)
+[2022.03.16-11.17.25:992][824]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2022.03.16-11.17.26:637][860]LogEditorViewport: Clicking Background
+[2022.03.16-11.17.42:003][778]Cmd: DELETE
+[2022.03.16-11.17.42:003][778]Cmd: ACTOR DELETE
+[2022.03.16-11.17.42:004][778]LogEditorActor: Deleted Actor: Character
+[2022.03.16-11.17.42:008][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.03.16-11.17.42:010][778]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.16-11.18.02:939][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.16-11.18.02:950][ 27]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese239B8D924ACBF3EFF5440AA54CEACA94.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.18.02:962][ 27]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.18.02:962][ 27]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.18.09:250][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube18)
+[2022.03.16-11.18.12:173][579]Cmd: EDIT COPY
+[2022.03.16-11.18.12:624][606]Cmd: EDIT PASTE
+[2022.03.16-11.18.34:071][892]LogEditorViewport: Clicking Background
+[2022.03.16-11.18.37:288][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube22)
+[2022.03.16-11.18.42:806][415]Cmd: EDIT COPY
+[2022.03.16-11.18.43:856][478]Cmd: EDIT PASTE
+[2022.03.16-11.18.59:049][389]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube15)
+[2022.03.16-11.18.59:938][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.19.03:264][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2022.03.16-11.19.08:616][958]Cmd: EDIT COPY
+[2022.03.16-11.19.10:466][ 69]Cmd: EDIT PASTE
+[2022.03.16-11.19.24:536][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.19.25:006][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9459FF95-4A80-4AE8-C041-17BD94848173%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=a81a5b9d45b4c4a34d982c935e5d4ac0%7Ce0adecd7ca564952829a2f5070ca3b0b%7C67c71227-cecd-42b6-bb55-0416bfec79ef&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: request failed, libcurl error: 0 (No error)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2648c0af850 [can pipeline])
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.213.168.186) port 443 (#2))
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 7 (Closing connection 2)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: 00000264CF3EDD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.03.16-11.19.30:794][286]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B9459FF95-4A80-4AE8-C041-17BD94848173%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=a81a5b9d45b4c4a34d982c935e5d4ac0%7Ce0adecd7ca564952829a2f5070ca3b0b%7C67c71227-cecd-42b6-bb55-0416bfec79ef&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.03.16-11.19.46:422][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube40)
+[2022.03.16-11.19.52:356][578]Cmd: EDIT COPY
+[2022.03.16-11.19.53:789][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube41)
+[2022.03.16-11.19.55:253][751]Cmd: EDIT COPY
+[2022.03.16-11.19.55:803][784]Cmd: EDIT PASTE
+[2022.03.16-11.20.08:901][569]Cmd: EDIT COPY
+[2022.03.16-11.20.09:451][602]Cmd: EDIT PASTE
+[2022.03.16-11.20.19:613][211]Cmd: DELETE
+[2022.03.16-11.20.19:613][211]Cmd: ACTOR DELETE
+[2022.03.16-11.20.19:614][211]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-11.20.19:618][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.16-11.20.19:619][211]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.16-11.20.20:696][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube42)
+[2022.03.16-11.20.21:583][328]Cmd: DELETE
+[2022.03.16-11.20.21:583][328]Cmd: ACTOR DELETE
+[2022.03.16-11.20.21:584][328]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-11.20.21:588][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.16-11.20.21:589][328]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.16-11.20.35:687][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.16-11.20.35:699][169]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese10C9734E4D6F5425E8DA338A972110EA.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.20.35:712][169]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.20.35:712][169]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
