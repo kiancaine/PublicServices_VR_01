@@ -1260,3 +1260,191 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.16-11.20.35:699][169]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese10C9734E4D6F5425E8DA338A972110EA.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
 [2022.03.16-11.20.35:712][169]AssetCheck: New page: Asset Save: InsideReeeeese
 [2022.03.16-11.20.35:712][169]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.21.42:891][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.03.16-11.21.42:903][360]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseCED5DBE14731BD2A0F9A4F82B56900E6.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.21.42:914][360]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.21.42:914][360]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.21.50:326][819]LogEditorViewport: Clicking Background
+[2022.03.16-11.22.00:177][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.22.07:392][850]LogEditorViewport: Clicking Background
+[2022.03.16-11.22.12:638][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.22.19:366][277]LogEditorViewport: Clicking Background
+[2022.03.16-11.22.23:118][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.03.16-11.22.23:493][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube32)
+[2022.03.16-11.22.26:966][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.22.39:322][646]LogEditorViewport: Clicking Background
+[2022.03.16-11.22.47:157][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.22.51:587][112]Cmd: EDIT COPY
+[2022.03.16-11.22.52:295][197]Cmd: EDIT PASTE
+[2022.03.16-11.23.08:090][ 81]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane2)
+[2022.03.16-11.23.08:726][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.03.16-11.23.17:161][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.23.25:320][129]Cmd: TRANSACTION UNDO
+[2022.03.16-11.23.25:320][129]LogEditorTransaction: Undo Clicking on Actors
+[2022.03.16-11.23.27:382][345]Cmd: TRANSACTION UNDO
+[2022.03.16-11.23.27:382][345]LogEditorTransaction: Undo Set Rotation
+[2022.03.16-11.23.48:472][859]LogEditorViewport: Clicking Background
+[2022.03.16-11.24.05:598][913]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2022.03.16-11.24.26:794][446]LogEditorViewport: Clicking Background
+[2022.03.16-11.25.00:940][518]Cmd: DELETE
+[2022.03.16-11.25.00:940][518]Cmd: ACTOR DELETE
+[2022.03.16-11.25.00:942][518]LogEditorActor: Deleted Actor: Character
+[2022.03.16-11.25.00:946][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.16-11.25.00:947][518]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2022.03.16-11.25.17:903][553]LogEditorViewport: Clicking Background
+[2022.03.16-11.25.18:236][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.25.22:841][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2022.03.16-11.25.24:736][361]Cmd: DELETE
+[2022.03.16-11.25.24:736][361]Cmd: ACTOR DELETE
+[2022.03.16-11.25.24:737][361]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.16-11.25.24:741][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.16-11.25.24:742][361]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2022.03.16-11.25.40:436][206]LogMaterial: Display: Missing cached shadermap for M_VRCursor in PCD3D_SM5, Default, SM5 (DDC key hash: 33BD57B2007A41CF707ABB8CA4A05B2116C9315A), compiling. 
+[2022.03.16-11.25.40:446][206]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.03.16-11.25.40:675][206]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.03.16-11.25.40:681][206]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.03.16-11.25.40:681][206]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.16-11.25.40:681][206]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'Normal' priority
+[2022.03.16-11.25.40:707][206]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.03.16-11.25.40:707][206]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.16-11.25.40:921][227]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.16-11.25.40:921][227]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2022.03.16-11.25.40:921][227]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.03.16-11.25.40:921][227]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.16-11.25.40:921][227]LogShaderCompilers: Display: ================================================
+[2022.03.16-11.26.16:729][491]LogEditorViewport: Clicking Background
+[2022.03.16-11.26.22:308][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.03.16-11.26.22:320][145]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese9917829F4397BA8EA21222A9A45F5559.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.26.22:325][145]LogFileHelpers: Saving map 'InsideReeeeese' took 0.025
+[2022.03.16-11.26.22:338][145]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.26.22:338][145]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/ResonanceAudio/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.25:782][525]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusOpenXR/Content: 'C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusOpenXR/Content' is outside repository at 'C:/Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01'
+[2022.03.16-11.26.26:032][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.16-11.26.26:045][525]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese2EECB998496C1330D9C4499F389FD373.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.26.26:049][525]LogFileHelpers: Saving map 'InsideReeeeese' took 0.022
+[2022.03.16-11.26.35:466][525]LogSlate: Window 'Submit Files' being destroyed
+[2022.03.16-11.26.35:667][525]LogSourceControl: commit successful: [main 949ac4c] More Inside Changes
+[2022.03.16-11.26.35:711][525]SourceControl: [main 949ac4c] More Inside Changes
+[2022.03.16-11.26.35:711][525]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.03.16-11.26.35:721][525]SourceControl: Commited [main 949ac4c] More Inside Changes.
+[2022.03.16-11.26.35:741][526]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.26.35:741][526]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.27.39:756][173]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.16-11.27.39:766][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.16-11.27.39:767][173]PIE: New page: PIE session: InsideReeeeese (16 Mar 2022, 11:27:39)
+[2022.03.16-11.27.39:768][173]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.03.16-11.27.39:770][173]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.03.16-11.27.39:770][173]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_InsideReeeeese
+[2022.03.16-11.27.39:773][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002776s)
+[2022.03.16-11.27.39:774][173]LogAIModule: Creating AISystem for world InsideReeeeese
+[2022.03.16-11.27.39:775][173]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2022.03.16-11.27.39:775][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InsideReeeeese.InsideReeeeese to /Game/UEDPIE_0_InsideReeeeese.InsideReeeeese (0.004439s)
+[2022.03.16-11.27.39:779][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.03.16-11.27.39:781][173]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.03.16-11.27.39:781][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.16-11.27.39:781][173]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.03.16-11.27.39:781][173]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.03.16-11.27.39:781][173]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.16-11.27.39:781][173]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.16-11.27.39:784][173]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.16-11.27.39:785][173]LogAudioMixer: Display: 1: FrontRight
+[2022.03.16-11.27.39:824][173]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.16-11.27.39:824][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.16-11.27.39:824][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.16-11.27.39:824][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.16-11.27.39:825][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.16-11.27.39:825][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.16-11.27.39:825][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.16-11.27.39:825][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.16-11.27.39:825][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.16-11.27.39:825][173]LogInit: FAudioDevice initialized.
+[2022.03.16-11.27.39:825][173]LogAudio: Display: Audio Device (ID: 2) registered with world 'InsideReeeeese'.
+[2022.03.16-11.27.39:833][173]LogLoad: Game class is 'VRGameMode_C'
+[2022.03.16-11.27.39:838][173]LogWorld: Bringing World /Game/UEDPIE_0_InsideReeeeese.InsideReeeeese up for play (max tick rate 0) at 2022.03.16-11.27.39
+[2022.03.16-11.27.39:839][173]LogWorld: Bringing up level for play took: 0.001431
+[2022.03.16-11.27.39:839][173]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.03.16-11.27.39:843][173]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.16-11.27.39:847][173]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.03.16-11.27.39:856][173]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 119.268913 sec (time since issued), 238.349609 sec (combined shader worker time).
+[2022.03.16-11.27.39:856][173]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.03.16-11.27.39:862][173]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.03.16-11.27.39:864][173]PIE: Server logged in
+[2022.03.16-11.27.39:865][173]PIE: Play in editor total start time 0.104 seconds.
+[2022.03.16-11.27.39:889][173]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.03.16-11.27.44:401][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.27.44:401][708]LogWorld: BeginTearingDown for /Game/UEDPIE_0_InsideReeeeese
+[2022.03.16-11.27.44:401][708]LogWorld: UWorld::CleanupWorld for InsideReeeeese, bSessionEnded=true, bCleanupResources=true
+[2022.03.16-11.27.44:401][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.27.44:407][708]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.16-11.27.44:409][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.16-11.27.44:414][708]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.16-11.27.44:414][708]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.03.16-11.27.44:414][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.27.44:416][708]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.16-11.27.44:460][708]LogSlate: Slate User Unregistered.  User Index 8
+[2022.03.16-11.27.44:460][708]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.03.16-11.27.44:461][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.16-11.27.44:478][709]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.03.16-11.28.58:504][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.03.16-11.29.02:066][953]Cmd: DELETE
+[2022.03.16-11.29.02:066][953]Cmd: ACTOR DELETE
+[2022.03.16-11.29.02:074][953]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2022.03.16-11.29.02:078][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.03.16-11.29.02:080][953]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2022.03.16-11.29.08:759][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.03.16-11.29.08:771][742]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese8A54ED0A42B940BE5608D08FB67E368F.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.29.08:782][742]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.29.08:783][742]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.29.33:946][447]Cmd: SELECT NONE
+[2022.03.16-11.30.12:688][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.30.58:227][140]LogSlate: Took 0.006580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.16-11.31.48:726][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.16-11.31.48:738][971]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeeseCA30C5824083013E3620EBB951A3B934.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.31.48:749][971]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.31.48:750][971]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
+[2022.03.16-11.39.46:114][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.03.16-11.39.46:746][187]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2022.03.16-11.39.48:786][429]Cmd: SELECT NONE
+[2022.03.16-11.39.51:834][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.16-11.39.51:846][781]LogSavePackage: Moving '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Saved/InsideReeeeese43FC12284126ED0635A619B88F5656A6.tmp' to '../../../../../../Users/proas/OneDrive/Documents/GitHub/PublicServices_VR_01/Content/InsideReeeeese.umap'
+[2022.03.16-11.39.51:859][781]AssetCheck: New page: Asset Save: InsideReeeeese
+[2022.03.16-11.39.51:859][781]LogContentValidation: Display: Validating World /Game/InsideReeeeese.InsideReeeeese
