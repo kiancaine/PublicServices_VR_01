@@ -13,3 +13,8 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .DS_Store
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/AutoScreenshot.png
+Saved/Logs/PublicServices_VR_01.log
+Saved/Autosaves/PackageRestoreData.json
