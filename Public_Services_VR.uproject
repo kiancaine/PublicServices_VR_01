@@ -31,6 +31,10 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
